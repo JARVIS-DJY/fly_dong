@@ -1,0 +1,5 @@
+http://blog.csdn.net/fuchaosz/article/details/51487585
+//[Android 编译(一)] Ubuntu 16.04 LTS 成功编译 Android 6.0 源码教程
+http://www.runoob.com/git/git-branch.html
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000
+//git 资源
