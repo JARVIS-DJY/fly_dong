@@ -1,0 +1,10 @@
+device/atc/ac83xx/sepolicy/teei_daemon.te:30:ERROR 'unknown type teei_client_device' at token ';' on line 24824:
+typeattribute teei_client_device mlstrustedobject;
+#define for mlsconstrain
+checkpolicy:  error(s) encountered while parsing configuration
+external/sepolicy/Android.mk:69: recipe for target 'out/target/product/ac83xx_evb/obj/ETC/sepolicy_intermediates/sepolicy' failed
+make: *** [out/target/product/ac83xx_evb/obj/ETC/sepolicy_intermediates/sepolicy] Error 1
+make: *** 正在等待未完成的任务....
+
+#### make failed to build some targets (06:53 (mm:ss)) ####
+
